@@ -1,12 +1,12 @@
 const CACHE_NAME = 'ebook-cache-v1';
 const ASSETS_TO_CACHE = [
   '/',
-  '/index.html',
-  '/manifest.webmanifest',
-  '/assets/css/styles.css',
-  '/assets/js/app.js',
-  '/assets/chapters/1.html',
-  '/assets/chapters/2.html',
+  '/ebook/index.html',
+  '/ebook/manifest.webmanifest',
+  '/ebook/assets/css/styles.css',
+  '/ebook/assets/js/app.js',
+  '/ebook/assets/chapters/1.html',
+  '/ebook/assets/chapters/2.html',
   // Добавьте другие важные ресурсы
 ];
 
